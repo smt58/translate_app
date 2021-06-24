@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">İnterpreter</string>
+    <string name="infosirket" translatable="false">Firma</string>
+    <string name="slogan" translatable="false">YAŞAMA DOKUNAN KOLAYLIK</string>
+    <string name="gelistirenekip" translatable="false">Geliştiriciler</string>
+    <string name="yeb" translatable="false">Yunus Emre Bay</string>
+    <string name="ab" translatable="false">Abdulsamet Bahçacı</string>
+    <string name="td" translatable="false"> Talha Dartay</string>
+    <string name="turkey" translatable="false">Made in TURKEY  </string>
+
+
+    <string-array name="Diller">
+        <item>Turkish</item>
+        <item>English</item>
+        <item>German</item>
+        <item>French</item>
+        <item>Arabic</item>
+        <item>Hindi</item>
+        <item>Japanese</item>
+        <item>Russian</item>
+        <item>Italian</item>
+    </string-array>
+
+   //xml
+    <string name="Translate">translate</string>
+    <string name="t1">PDF SAVE</string>
+    <string name="t2">Source text</string>
+    <string name="t3">TARGET</string>
+    <string name='t4'>Translated text</string>
+    <string name="t5">SOURCE</string>
+    <string name="t6">TRANSLATION:</string>
+    <string name="t7">CAMERA TEXT :</string>
+    <string name="t8">APP ABOUT</string>
+    <string name="t9">WİTH CAMERA</string>
+    <string name="t10">TRANSLATE</string>
+    <string name="t11">WİTH VOİCE</string>
+    <string name="t12">TRANSLATE OPTIONS</string>
+    <string name="t13">WELCOME TRANSLATE APP</string>
+    <string name="t14">PRESS AND TALK</string>
+    <string name="t15">YOU CAN TALK SAY :</string>
+    <string name="t16">TRANSLATE</string>
+
+
+    <string name="share">Click for a share application</string>
+    <string name="store">VISIT OTHER APPLICATIONS PLAY STORE</string>
+
+
+    <string name="similar">VİSİT the translatePDF translation app</string>
+
+
+
+    <string name="info">When the translation process is started, it is downloaded to the zip file of that language only once, so you should wait for a while.You can continue the translation process offline in the next process.</string>
+
+
+    <string name="bannerapp" translatable="false">ca-app-pub-1952242653048047/8996750558</string>
+    <string name="bannermenu" translatable="false">ca-app-pub-1952242653048047/3045585725</string>
+    <string name="bannermetin" translatable="false">ca-app-pub-1952242653048047/6054235901</string>
+
+    <string name="gecisapp" translatable="false">ca-app-pub-1952242653048047/4514580064</string>
+    <string name="gecismain" translatable="false">ca-app-pub-1952242653048047/8324681187</string>
+    <string name="gecisvoice" translatable="false">ca-app-pub-1952242653048047/6847947988</string>
+
+
+
+
+
+
+</resources>

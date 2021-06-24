@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tercüman</string>
+    <string name="Translate">Çeviri</string>
+    <string name="t1">PDF KAYDET</string>
+    <string name="t2">ÇEVRİLECEK METİN</string>
+    <string name="t3">HEDEF</string>
+    <string name="t4">ÇEVRİLMİŞ METİN</string>
+    <string name="t5">KAYNAK</string>
+    <string name="t6">ÇEVİRİ:</string>
+    <string name="t7">KAMERA METNİ</string>
+    <string name="t8">HAKKINDA</string>
+    <string name="t9">KAMERA</string>
+    <string name="t10">METİN</string>
+    <string name="t11">SES</string>
+    <string name="t12">ÇEVİRİ SEÇENEKLERİ</string>
+    <string name="t13">TERCÜMAN UYGULAMASI</string>
+    <string name="t14">BAS VE KONUŞ</string>
+    <string name="t15">KONUŞTUĞUN METİN:</string>
+    <string name="t16">ÇEVİR</string>
+
+    <string name="similar">translatePDF çeviri uygulamasını inceleyin</string>
+
+    <string name="share">UYGULAMAYI PAYLAŞMAK İÇİN TIKLA</string>
+
+    <string name="store">UYGULAMALARIMIZI ZİYARET EDİN</string>
+
+    <string name="info">Çevirme işlemine başlandığında o dile ait zip dosyasına sadece bir kereliğine indirilir bu yüzden biraz beklemelisiniz.Sonraki işlemlerde çevrimdışı olarakta çeviri işlemine devam edebilirsiniz</string>
+
+
+</resources>

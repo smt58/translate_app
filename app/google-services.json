@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "287284088890",
+    "firebase_url": "https://translate-app-4c84b.firebaseio.com",
+    "project_id": "translate-app-4c84b",
+    "storage_bucket": "translate-app-4c84b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287284088890:android:5ee1fd798e6ac9ea66a503",
+        "android_client_info": {
+          "package_name": "com.example.translate_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287284088890-epk825rntbt4sgt1gv1s6a1ajlaabc1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2JpN3huCdMiCBiTI5kG2WTnBiUqrbn5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287284088890-epk825rntbt4sgt1gv1s6a1ajlaabc1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287284088890:android:f621d6220c7a438d66a503",
+        "android_client_info": {
+          "package_name": "com.loko.translate_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287284088890-epk825rntbt4sgt1gv1s6a1ajlaabc1a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2JpN3huCdMiCBiTI5kG2WTnBiUqrbn5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287284088890-epk825rntbt4sgt1gv1s6a1ajlaabc1a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
